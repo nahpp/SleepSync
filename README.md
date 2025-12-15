@@ -22,20 +22,22 @@ FlutterFlow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
  ![Image Alt](https://github.com/nahpp/SleepSync/blob/main/Screenshot%202025-12-15%20104132.png?raw=true)  ![Image Alt](https://github.com/nahpp/SleepSync/blob/main/Screenshot%202025-12-15%20104140.png?raw=true)
 
 
-## How to Run
+## Building
 
-1. Clone the repository
+You can follow these instructions to build the app and install it onto your device.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-git clone <repo-url>
+### Prerequisites
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-cd <repo-folder>
+If you are new to Flutter, please first follow the [Flutter Setup](https://flutter.dev/setup/) guide.
 
-2. Install dependencies
+### Building and installing the Flutter Design Patterns app
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-flutter pub get
+```
+git clone https://github.com/nahpp/SleepSync.git
+cd flutter-design-patterns
+flutter pub get
+flutter pub run build_runner build --delete-conflicting-outputs
+flutter run
+```
 
-3. Launch the app
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Android/iOS: flutter run
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Web: flutter run -d chrome
+The `flutter run` command both builds and installs the Flutter app to your device or emulator.
