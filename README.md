@@ -8,8 +8,15 @@ lets users input personal errands, events, or commitments. Based on this schedul
 ## Wind-Down Mode
 offers a calming, structured experience designed to help users transition smoothly into sleep. It features three restorative tools: guided breathing exercises to reduce tension and regulate the nervous system, a journaling space for logging thoughts and moods to promote emotional clarity, and a sleep countdown timer that visually prepares the mind and body for rest.
 
- ![Image Alt](image_url)  ![Image Alt](image_url)
+FlutterFlow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flutter
+ 
+ ![Image Alt](https://github.com/nahpp/SleepSync/blob/main/Screenshot%202025-12-15%20102036.png?raw=true)  ![Image Alt](https://github.com/nahpp/SleepSync/blob/main/Screenshot%202025-12-15%20102109.png?raw=true)
+ 
+ FlutterFlow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flutter
  
  ![Image Alt](https://github.com/nahpp/SleepSync/blob/main/Screenshot%202025-12-15%20104113.png?raw=true)  ![Image Alt](https://github.com/nahpp/SleepSync/blob/main/Screenshot%202025-12-15%20104122.png?raw=true)
+
+
+FlutterFlow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flutter
  
  ![Image Alt](https://github.com/nahpp/SleepSync/blob/main/Screenshot%202025-12-15%20104132.png?raw=true)  ![Image Alt](https://github.com/nahpp/SleepSync/blob/main/Screenshot%202025-12-15%20104140.png?raw=true)
