@@ -20,3 +20,22 @@ FlutterFlow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 FlutterFlow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flutter
  
  ![Image Alt](https://github.com/nahpp/SleepSync/blob/main/Screenshot%202025-12-15%20104132.png?raw=true)  ![Image Alt](https://github.com/nahpp/SleepSync/blob/main/Screenshot%202025-12-15%20104140.png?raw=true)
+
+
+## How to Run
+
+1. Clone the repository
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-git clone <repo-url>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-cd <repo-folder>
+
+2. Install dependencies
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-flutter pub get
+
+3. Launch the app
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Android/iOS: flutter run
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Web: flutter run -d chrome
