@@ -43,7 +43,7 @@ If you are new to Flutter, please first follow the [Flutter Setup](https://flutt
 
 ```
 git clone https://github.com/nahpp/SleepSync.git
-cd flutter-design-patterns
+cd SleepSync
 flutter pub get
 flutter pub run build_runner build --delete-conflicting-outputs
 flutter run
